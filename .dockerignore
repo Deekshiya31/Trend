@@ -1,7 +1,7 @@
 # Node deps + build artifacts
 node_modules
 build
-dist
+# dist
 
 # Git & local configs
 .git
