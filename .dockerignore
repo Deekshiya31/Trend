@@ -1,0 +1,19 @@
+# Node deps + build artifacts
+node_modules
+build
+dist
+
+# Git & local configs
+.git
+.gitignore
+
+# Env + editor
+.env
+.vscode
+.idea
+.DS_Store
+
+# Logs
+npm-debug.log*
+yarn-error.log*
+
